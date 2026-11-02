@@ -9,7 +9,7 @@
 Photograph a family object, let a relative tell its story in their own voice, and get a living page<br/>
 the whole family can explore, where every sentence links back to who said it.
 
-[Devpost](https://devpost.com/software/tell-me-again) · [Design doc](docs/DESIGN.md) · [Immersive Memories](docs/IMMERSIVE.md) · [Storytime](docs/STORYTIME.md)
+[Design doc](docs/DESIGN.md) · [Immersive Memories](docs/IMMERSIVE.md) · [Storytime](docs/STORYTIME.md)
 
 Built at **Meta AI Hackathon** for the **Meta: Bringing People Closer Together** track
 
